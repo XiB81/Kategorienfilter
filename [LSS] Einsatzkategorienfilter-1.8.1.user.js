@@ -2,9 +2,9 @@
 // ==UserScript==
 // @name         [LSS] Einsatzkategorienfilter
 // @namespace    http://tampermonkey.net/
-// @version      1.8.1
+// @version      1.8.1m1
 // @description  Filtert die Einsatzliste nach Kategorien
-// @author       Caddy21
+// @author       Caddy21 modifiziert durch XiB
 // @match        https://www.leitstellenspiel.de/
 // @grant        GM.setValue
 // @grant        GM.getValue
